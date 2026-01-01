@@ -1,5 +1,5 @@
-Hello 👋
-Master’s student in Computation, Information, and Technology at TUM | Focused on intelligent systems, data-driven technologies, and Information Retrieval in LLMs for Open Data.
+Exploring intelligent systems, data-driven technologies, and building Information Retrieval solutions with LLMs for Open Data.
+
 
 <!--
 **AshwathiNair77/AshwathiNair77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
