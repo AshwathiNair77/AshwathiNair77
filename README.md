@@ -1,6 +1,5 @@
 Exploring intelligent systems, data-driven technologies, and building Information Retrieval solutions with LLMs for Open Data.
 
-
 <!--
 **AshwathiNair77/AshwathiNair77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
